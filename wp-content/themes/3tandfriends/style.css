@@ -1,0 +1,20 @@
+/*
+Theme Name: 3T and Friends
+Theme URI: 3tandfriends.com
+Author: Adam Barrett
+Description: Custom theme for 3T and Friends
+Version: 1.0
+*/
+
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.admin-bar .navbar-fixed-top {
+  margin-top: 30px;
+}
+
+.current-menu-item > a {
+  background: #000;
+}
