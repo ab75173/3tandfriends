@@ -18,3 +18,7 @@ body {
 .current-menu-item > a {
   background: #000;
 }
+
+.sidebar {
+  margin-top: 40px;
+}
