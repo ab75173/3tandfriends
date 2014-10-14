@@ -22,3 +22,7 @@ body {
 .sidebar {
   margin-top: 40px;
 }
+
+.widget h3 {
+  color: #888;
+}
